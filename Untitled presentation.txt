@@ -1,0 +1,325 @@
+
+Roadmap for the Replacement of Lithium Ion batteries
+Presented By:
+Abdelbagi A., Donev E. , Pakala P., Kapila Y
+
+
+Background
+Improper disposals runs the risk of heavy metal contamination (Beaudet et al., 2020; Ali et al., 2025)
+
+Hydrometallurgy recovers up to 99% of precious metals (Ali et al., 2025)
+
+High upfront cost remain a major adoption barrier (Awad et al., 2025)
+
+Government incentives drive 39.1% of adoption rates (Awad et al., 2025)
+Toxicity is a secondary concern second to EV battery cost (Cheng et al., 2026)
+
+Over 50% of the public remain unaware of proper recycling practices (Islam et al. 2022)
+Enviromental
+Economic
+Social
+1.7.2013
+Praneel
+‹#›
+
+Present: Current Solutions
+Put money into researching alternatives (Al-ion) or heat resistant batteries
+
+Power charging station using solar energy to lower emissions
+
+Incentivise recycling (old for new battery swap programs)
+
+Incentivise EV production by reducing their value added tax and toll costs
+Educate youth via social media and school/school board wide campaigns
+
+Put resources into educating the public
+Infastructure Development 
+Economic incentives
+Community Outreach
+1.7.2013
+Praneel
+‹#›
+
+2030, Begining Goals
+Technical improvments
+Recycling goals
+Review
+1.7.2013
+Efti
+‹#›
+
+Al-ion EVs
+Signifigant research should be done on how to imrpove Al-ion batteries.
+Progress should have reached the point to where dendrite formation should be slowed to a similar level as Li-ion (Beilmolt et al., 2020)
+Al-ion should begin to be implemented into Evs and shuldl begin to make up a small, but growing part of the EV market.
+Technoloigcal progress
+Viability
+Implementation
+1.7.2013
+Efti
+‹#›
+
+Recycling
+Recycling plants should have been built and operations hsould have started
+
+Benifits should be given to manufactures who recycle
+
+New EV designs should begin to better fit recycling standards set.
+
+New Evs should have a significant amount of recycled batteries.
+
+If not met more recources should be put towards recycling infrastructure or more incentives should be given to manufacturers
+
+This is a specific goal set
+Government
+Manufacturers
+Results
+1.7.2013
+Efti
+‹#›
+
+Review and Improvments
+Feedback should be taken from stakeholders and the public, as well as a input in how fast technologies are improving
+Changes should be made to previous goals and new ones should be set accordingly. As well as the possibility of new policies.
+A study should be done to understand how the policies implemented have worked so far.
+Feedback 
+New outline
+Review
+1.7.2013
+Efti
+‹#›
+
+2040 - The Peak of Battery Waste
+Policy, Ethics & Public Impact
+Understanding Context
+Technology Shift
+1.7.2013
+Aubai
+‹#›
+
+"The Scale Shift" Context/Problem Evolution
+93,000+ batteries reaching end-of-life annually in Canada.
+Current "Wild West" provincial rules cannot handle 2040 scales (Jones, 2025)
+Lack of regulation leads to unethical waste export
+Volume Peak (Urgency)
+ Infrastructure Gap 
+ Ethical Risk (Responsibility)
+1.7.2013
+Aubai
+‹#›
+
+"The Scale Shift" Context/Problem Evolution
+2040 is the tipping point, Canada’s circular economy either holds or collapses 
+Recycled material market value grew 11x since 2015.
+Recycling offsets 25–40% of new mineral mining.
+The Circular Economy
+Economic Growth 
+Resource Sovereignty (Mining)
+1.7.2013
+Aubai
+‹#›
+
+Policy, Ethics & Public Impact
+Global regulations close waste export loopholes
+
+Canada adopts mandatory EPR with real enforcement
+
+Battery passports begin to become international standard
+Circular economy built into design requirements
+
+Battery chemistry standardized across manufacturers (Rezaei, 2025)
+
+Early investors in recycling now lead the market
+
+Recycling hubs create jobs, reducing NIMBY opposition
+
+Economic benefits shift public perception near disposal sites
+
+EVs reframed as local economic opportunity, not threat
+Government
+Manufacuterers 
+Communities
+1.7.2013
+Aubai
+‹#›
+
+Technology Shift
+Standardization removes recycling barriers
+
+Hydrometallurgical recycling at full scale
+
+Designed for disassembly from the start
+
+Most promising alternative in development
+
+Lower environmental impact than lithium
+
+Cheaper raw materials, higher energy density
+
+Theoretically highest energy density
+
+Dendrite formation still unsolved
+
+Not ready for mass deployment
+
+Li-ion (Refined)
+Aluminum-ion (Emerging)
+Solid-state (Early Stage)
+1.7.2013
+Aubai
+‹#›
+
+2060 - Longer Term Goals
+Alternatives
+Recycling
+Closed-Loop System
+System and Ethics
+Final Goal to Reach
+1.7.2013
+Yuvi
+‹#›
+
+Alternatives
+Solid-state dominates; highest theoretical energy density and longest lifespan of any battery technology (Biemolt, 2020)
+SSB
+Aluminum-ion fills secondary roles; lower toxicity, strong energy density (Biemolt, 2020)
+AIB
+Needle-like crystal growths that caused short circuits and degraded lifespan in earlier batteries are fully resolved through decades of research
+Dendrities Solved
+1.7.2013
+Yuvi
+‹#›
+
+
+
+Hydrometallurgical
+Hydrometallurgical processing uses water-based chemicals to recover 90-99% of critical minerals like lithium, cobalt, and nickel (Beaudet et al., 2020)
+
+
+
+Pyrometallurgical processing uses high-temperature smelting to extract metals, recovering fewer materials but handling a wider range of battery types (Beaudet et al., 2020)
+Pyrometallurgical
+By 2060 both methods run at near-100% efficiency, and every battery is processed at end-of-life through a government-backed industry.
+Technology Shift
+1.7.2013
+Yuvi
+‹#›
+
+Closed Loop System
+Recovered materials feed straight back into new battery production, removing the need for new mining
+The system follows a five‑stage cycle: Repair, Remanufacture, Resell, Repurpose, Recycle (Yamanouchi et al., 2026).
+Only one‑quarter of global e‑waste was properly recycled in 2022 (IEA, 2024); by 2060, Canada meets its lithium, cobalt, and nickel needs through recovery alone.
+What is it
+5R Model
+The Shift
+1.7.2013
+Yuvi
+‹#›
+
+Relies on perfect coordination, assuming governments, manufacturers, and communities act together.
+Innovation vs standardization, standardized batteries can slow down breakthroughs in better technology (Rezaei, 2025)
+Limitations and Cons
+Economic uncertainty, recycling systems depend on material price and incentives, so they might not stay stable full term
+1.7.2013
+Yuvi
+‹#›
+
+System and Ethics
+Accountable from design to disposal; battery chemistry standardized across all producers (Harper et al., 2019)
+Vulnerable communities no longer bear costs others created (Compagnoni et al., 2024); disposal sites are no longer sources of harm
+Government
+Manufactuerers
+Commnities
+Waste export loopholes closed globally; Extended Producer Mandate mandatory with real enforcement; battery passports international standard
+1.7.2013
+Yuvi
+‹#›
+
+Conclusion:
+Final Goal Reached
+Near-100% material recovery; no stage of the battery lifecycle sends material to landfill; mining demand reduced 25-40% (IEA, 2024)
+Sustainable
+Full lifecycle accountability achieved; harm no longer exported to less-protected countries
+Ethical
+Recycling facilities support tens of thousands of jobs; public opposition near disposal sites gone; EVs are local economic assets, not threats (Awad et al., 2025)
+Economic
+1.7.2013
+Yuvi
+‹#›
+
+
+
+Ali, A., Al Bahrani, M., Ahmed, S., Islam, M. T., Qadir, S. A., & Shahid, M. (2025). Sustainable recycling of end-of-life electric vehicle batteries: EV battery recycling frameworks in China and the USA. Recycling, 10(2), 68. https://doi.org/10.3390/recycling10020068
+
+Awad, H., De Santis, M., & Bayoumi, E. H. E. (2025). Electric vehicle adoption in Egypt: A review of feasibility, challenges, and policy directions. World Electric Vehicle Journal, 16(8), 423. https://doi.org/10.3390/wevj16080423
+
+Beaudet, A., Larouche, F., Amouzegar, K., Bouchard, P., & Zaghib, K. (2020). Key challenges and opportunities for recycling electric vehicle battery materials. Sustainability, 12(14), 5837. https://doi.org/10.3390/su12145837
+
+Cheng, J., Gao, T., Zhang, Y.-C., Khan, N. U., & Lu, K.-B. (2026). Psychological drivers of electric vehicle battery recycling: The impact of place attachment and sustainable attitudes. Frontiers in Psychology, 16, Article 1634913. https://doi.org/10.3389/fpsyg.2025.1634913
+
+
+References
+Islam, M. T., Huda, N., Baumber, A., Hossain, R., & Sahajwalla, V. (2022). Waste battery disposal and recycling behavior: A study on the Australian perspective. Environmental Science and Pollution Research, 29, 58980–59001. https://doi.org/10.1007/s11356-022-19681-2
+
+O'Connor, P., & Wise, P. (2021). An analysis of lithium-ion battery fires in waste management and recycling (Report No. EPA 530-R-21-002). United States Environmental Protection Agency, Office of Resource Conservation and Recovery. https://www.epa.gov/system/files/documents/2021-08/lithium-ion-battery-report-update-7.01_508.pdf
+
+Safarzadeh, H., & Di Maria, F. (2025). Progress, challenges and opportunities in recycling electric vehicle batteries: A systematic review. Batteries, 11, 230. https://doi.org/10.3390/batteries11080230
+
+Yang, Z., Huang, H., & Lin, F. (2022). Sustainable electric vehicle batteries for a sustainable world: Perspectives on battery cathodes, environment, supply chain, manufacturing, life cycle, and policy. Advanced Energy Materials, 12(26), Article 2200383. https://doi.org/10.1002/aenm.202200383
+
+
+
+Balakrishnan, A., Ramanathan, R., Ramanathan, U., & Srinivasan, R. (2025). Responsible battery disposal management practices: An investigation in the electric vehicle industry from a circular economy perspective. Journal of Environmental Management, 383, 125488. https://doi.org/10.1016/j.jenvman.2025.125488
+
+Compagnoni, M., Grazzi, M., Pieri, F., & Tomasi, C. (2024). Extended producer responsibility and trade flows in waste: The case of batteries. Environmental and Resource Economics, 88(1), 43–76. https://doi.org/10.1007/s10640-024-00907-5
+
+Government of Ontario. (2016). Resource Recovery and Circular Economy Act, 2016. https://www.ontario.ca/laws/statute/16r12
+
+Harper, G., Sommerville, R., Kendrick, E., Driscoll, L., Slater, P., Stolkin, R., Walton, A., Christensen, P., Heidrich, O., Lambert, S., Abbott, A., Ryder, K., Gaines, L., & Anderson, P. (2019). Recycling lithium-ion batteries from electric vehicles. Nature, 575(7781), 75–86. https://doi.org/10.1038/s41586-019-1682-5
+
+Jose, S. A., Dworkin, L., Montano, S., Noack, W. C., Rusche, N., Williams, D., & Menezes, P. L. (2024). Pathways to circular economy for electric vehicle batteries. Recycling, 9(5), 76. https://doi.org/10.3390/recycling9050076
+
+
+References
+Rezaei, M., Nekahi, A., Ameer Nizami, A. K., Li, X., Deng, S., Nanda, J., & Zaghib, K. (2025). A review of lithium-ion battery recycling for enabling a circular economy. Journal of Power Sources, 630, 236157. https://doi.org/10.1016/j.jpowsour.2024.236157
+
+Stefan, I., & Chirumalla, K. (2024). Enabling value retention in circular ecosystems for the second life of electric vehicle batteries. Resources, Conservation and Recycling, 212, 107942. https://doi.org/10.1016/j.resconrec.2024.107942
+
+Su, D., Mei, Y., Liu, T., & Amine, K. (2025). Global regulations for sustainable battery recycling: Challenges and opportunities. Sustainability, 17(7), 3045. https://doi.org/10.3390/su17073045
+
+Wei, L., Wang, C., & Li, Y. (2022). Governance strategies for end-of-life electric vehicle battery recycling in China: A tripartite evolutionary game analysis. Frontiers in Environmental Science, 10. https://doi.org/10.3389/fenvs.2022.1071688
+
+Xavier, L. H., Ottoni, M., & Lepawsky, J. (2021). Circular economy and e-waste management in the Americas: Brazilian and Canadian frameworks. Journal of Cleaner Production, 297, 126570. https://doi.org/10.1016/j.jclepro.2021.126570
+
+
+
+Beaudet, A., Larouche, F., Amouzegar, K., Bouchard, P., & Zaghib, K. (2020). Key challenges and opportunities for recycling electric vehicle battery materials. Sustainability, 12(14), 5837. https://doi.org/10.3390/su12145837
+
+Bettle, L. (2025, August 21). In-depth research: Canada’s EV battery recycling landscape. Lark Scientific. Retrieved March 6, 2026, from https://www.larkscientific.org/in-depth-research/canadas-ev-battery-recycling-landscape
+
+Butler, C. (2023, December 30). The environmental costs of EV batteries that politicians don’t tend to talk about. CBC News. https://www.cbc.ca/news/canada/london/dead-ev-batteries-environmental-cost-critical-minerals-1.7042384
+
+International Energy Agency. (2024). Recycling of critical minerals. IEA. https://www.iea.org/reports/recycling-of-critical-minerals
+Jones, A. M. (2025, June 1). Canada had big EV battery recycling plans, but without regulations, it’s the “Wild West,” an expert warns. CBC News. https://www.cbc.ca/news/climate/ev-battery-recycling-regulation-1.7547790
+
+Patel, N. (2022, December 26). Electric vehicle sales are racing ahead, but is there a plan for the waste they create? CBC News. https://www.cbc.ca/news/business/electric-vehicle-battery-recycling-1.6695010
+
+
+References
+Slattery, M., Dunn, J., & Kendall, A. (2024). Charting the electric vehicle battery reuse and recycling network in North America. Waste Management, 174, 76–87. https://doi.org/10.1016/j.wasman.2023.11.018
+
+Wang, Z., Lyu, L., Huang, G., & An, C. (2025). Feasibility analysis of recycling and repurposing end-of-life vehicle batteries in isolated island areas: A case study in British Columbia, Canada. Science of the Total Environment, 997, 180213. https://doi.org/10.1016/j.scitotenv.2025.180213
+
+Winfield, M., Myers, J., & Sooch, S. (2023). A comparative study of regulatory regimes in Canada, the U.S., and the European Union: Post-consumer management of end-of-life electric vehicle batteries (Studies in Ontario Energy Policy Series No. 8). York University Sustainable Energy Initiative. https://sei.info.yorku.ca/files/2023/10/EOLBatteries-Oct16-highres.pdf?x60126
+
+Yamanouchi, E., Hobbs, E., Youden, M., & Timmins, T. (2026, January 20). How is Canada managing the end-of-life for EV batteries? Gowling WLG. https://gowlingwlg.com/en-ca/insights-resources/articles/2026/how-is-canada-managing-the-end-of-life-for-ev-batteries
+
+
+
+
+Biemolt, J., Jungbacker, P., van Teijlingen, T., Yan, N., & Rothenberg, G. (2020). Beyond lithium-based batteries. Materials, 13(2), 425. https://doi.org/10.3390/ma13020425
+Deng, Y., Li, J., Li, T., Gao, X., & Yuan, C. (2017a). Life cycle assessment of    lithium sulfur battery for electric vehicles. Journal of Power Sources, 343, 284–295. https://doi.org/10.1016/j.jpowsour.2017.01.036
+Mandade, P., Weil, M., Baumann, M., & Wei, Z. (2023). Environmental life cycle assessment of emerging solid-state batteries: A Review. Chemical Engineering Journal Advances, 13, 100439 https://doi.org/10.1016/j.ceja.2022.100439
+
+
+References
